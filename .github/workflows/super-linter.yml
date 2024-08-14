@@ -1,5 +1,4 @@
   Linting:
-    on: push
     runs-on: ubuntu-latest
     needs: [Build]
     steps:
